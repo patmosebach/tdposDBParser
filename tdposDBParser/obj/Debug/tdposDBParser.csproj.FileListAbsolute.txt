@@ -1,0 +1,7 @@
+C:\src\tdposDBParser\tdposDBParser\bin\Debug\tdposDBParser.exe.config
+C:\src\tdposDBParser\tdposDBParser\bin\Debug\tdposDBParser.exe
+C:\src\tdposDBParser\tdposDBParser\bin\Debug\tdposDBParser.pdb
+C:\src\tdposDBParser\tdposDBParser\obj\Debug\tdposDBParser.csprojAssemblyReference.cache
+C:\src\tdposDBParser\tdposDBParser\obj\Debug\tdposDBParser.csproj.CoreCompileInputs.cache
+C:\src\tdposDBParser\tdposDBParser\obj\Debug\tdposDBParser.exe
+C:\src\tdposDBParser\tdposDBParser\obj\Debug\tdposDBParser.pdb
